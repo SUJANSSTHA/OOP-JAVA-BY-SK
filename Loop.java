@@ -6,8 +6,7 @@ public class Loop {
         int num = su.nextInt();
         if(num<0)
         System.out.println(num+"is a negative number.");
-        else if (num>0)
-
+        else if
 
     }
 }
